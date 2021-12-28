@@ -1,0 +1,138 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1 {
+  font-size: 4.625rem;
+  margin: 30px auto 0 auto;
+  font-family: 'Acme', sans-serif;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E
+}
+
+hr {
+  border-color: lightgray;
+  border-style: none none dotted none;
+  width: 5%;
+  border-width: 7px;
+  margin: 80px auto;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+}
+
+.middle-container {
+  padding-bottom: 50px;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  display: block;
+  position: relative;
+  left: 65%;
+  padding-top: 40px;
+}
+
+.skills {
+  border-radius: 100%;
+}
+
+.mountain {
+  width: 1196px;
+  height: 714px;
+}
+
+.subtitle-programmer {
+  margin-top: 0;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.developing-img {
+  width: 25%;
+  border-radius: 100%;
+  float: left;
+  margin-right: 30px;
+}
+
+.math-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn {
+  background: #66dfdf;
+  background-image: -webkit-linear-gradient(top, #66dfdf, #66bfbf);
+  background-image: -moz-linear-gradient(top, #66dfdf, #66bfbf);
+  background-image: -ms-linear-gradient(top, #66dfdf, #66bfbf);
+  background-image: -o-linear-gradient(top, #66dfdf, #66bfbf);
+  background-image: linear-gradient(to bottom, #66dfdf, #66bfbf);
+  -webkit-border-radius: 4;
+  -moz-border-radius: 4;
+  border-radius: 4px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #66afaf;
+  background-image: -webkit-linear-gradient(top, #66afaf, #669f9f);
+  background-image: -moz-linear-gradient(top, #66afaf, #669f9f);
+  background-image: -ms-linear-gradient(top, #66afaf, #669f9f);
+  background-image: -o-linear-gradient(top, #66afaf, #669f9f);
+  background-image: linear-gradient(to bottom, #66afaf, #669f9f);
+  text-decoration: none;
+}
+
+.footer-link {
+  line-height: 4;
+}
+
+.get-in-touch-desc {
+  margin-bottom: 50px;
+  line-height: 2;
+}
+
+.copyright {
+  margin-bottom: 0;
+  padding-bottom: 10px;
+  color: #e4f9f5;
+}
