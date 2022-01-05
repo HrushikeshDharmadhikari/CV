@@ -136,3 +136,6 @@ hr {
   padding-bottom: 10px;
   color: #e4f9f5;
 }
+.shadow {
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
+}
